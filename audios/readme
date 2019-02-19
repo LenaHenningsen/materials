@@ -8,17 +8,17 @@ The audios need to be clear enough for machine-reading.
 The size of each file should be under 10MB.
 4.	File naming
 The audios should be named under below rules.
-Example file name: YZ20190501SH
-The files should be named with 12 digits
-•	The fist digit of the name should be the initial of surname of researcher.
+Example file name: YZY20190501SH
+The files should be named with 13 digits
+•	The fist digit of the name should be the initial of surname of the researcher.
 In the case of ReadChina, below initials will be used to identify researchers.
 H-Henningsen
 L-Lin 
 M-Mandzunowski
 P-Paterson
 Y-Yang
-•	The second digit identifies the initila of the surname of the interviewee.
-For example: Z-Zhang
-•	The third to the tenth digits identifies the date of the inteview, the format is yyyyddmm.
-•	The eleventh and twelfth digits identify the first two letters of the name/place of the interview. For example, SH-Shanghai.
+•	The second and third digits identify the initials of the interviewee.
+For example: ZY-Zhang Yang
+•	The fourth to the eleventh digits identifies the date of the interview, the format is yyyyddmm.
+•	The twelfth and thirteenth digits identify the first two letters of the name/place of the interview. For example, SH-Shanghai.
 
