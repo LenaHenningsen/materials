@@ -1,11 +1,11 @@
 This is the repository for audios of interviews. Regulations of files are listed as below 
 
 1.	File format
-The images should be in wav format.
+The audios should be in wav format.
 2.	Quality
 The audios need to be clear enough for machine-reading.
 3.	File size
-The size of each image should be under 10MB.
+The size of each file should be under 10MB.
 4.	File naming
 The audios should be named under below rules.
 Example file name: YZ20190501SH
