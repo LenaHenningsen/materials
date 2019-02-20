@@ -31,17 +31,16 @@ This repo contains two top-level folders `audio` and `image`, since these are th
     git push --mirror https://github.com/readchina/dp-interview.git
     ```
 
-   1.  clean up
-       ```bash
-       cd ..
-       rm -rf materials.git
-       ```
+    1.  clean up
+        ```bash
+        cd ..
+        rm -rf materials.git
+        ```
 
 4.  Congratulations your new repository is now set up and ready to receive files. Go to a folder with the first letter of your surname (**H**enningsen, **L**in, **M**andzunowski, **P**aterson,**Y**ang) inside either `audio` or `image` as required, e.g.:
-
-```bash
-cd materials/audio/Y
-```
+    ```bash
+    cd materials/audio/Y
+    ```
 
 5.  Check the `readme.md` for either [audio](image/readme.md) or [image](audio/readme.md) files as necessary and fill out the template.
 
