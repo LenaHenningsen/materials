@@ -16,26 +16,26 @@ This repo contains two top-level folders `audio` and `image`, since these are th
 
 
 ### Step-by-Step
-1. [Create](https://help.github.com/articles/creating-a-new-repository/) either a public or private repository for your data, e.g. `readchina/dp-interviews` on GitHub. You'll need the URL of this new repo in step 3 below.
+1.  [Create](https://help.github.com/articles/creating-a-new-repository/) either a public or private repository for your data, e.g. `readchina/dp-interviews` on GitHub. You'll need the URL of this new repo in step 3 below.
 
 2.  On your computer go to a folder where you want to collect the data, e.g. `my-data`. Make sure not to use whitespaces for folder names, so not ~~`My Data`~~.
-```bash
-cd my-data
-```
+    ```bash
+    cd my-data
+    ```
 
 3.  Clone this repo, and then push the mirrored clone to your new repo (make sure to adjust the URL in the last line according to the name of your repo)
-```bash
-git clone --bare https://github.com/readchina/materials.git
-cd materials.git
-git lfs fetch --all
-git push --mirror https://github.com/readchina/dp-interview.git
-```
+    ```bash
+    git clone --bare https://github.com/readchina/materials.git
+    cd materials.git
+    git lfs fetch --all
+    git push --mirror https://github.com/readchina/dp-interview.git
+    ```
 
-    1.  clean up
-  ```bash
-  cd ..
-  rm -rf materials.git
-  ```
+   1.  clean up
+       ```bash
+       cd ..
+       rm -rf materials.git
+       ```
 
 4.  Congratulations your new repository is now set up and ready to receive files. Go to a folder with the first letter of your surname (**H**enningsen, **L**in, **M**andzunowski, **P**aterson,**Y**ang) inside either `audio` or `image` as required, e.g.:
 

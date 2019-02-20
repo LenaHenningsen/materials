@@ -24,9 +24,9 @@ Each folder should contain a `readme.md` with basic bibliographical information 
 
 A basic readme has already been included here, feel free to copy and paste it as many times as you need.
 
-> ### Costum ID
+### Costum ID Schema
 > some info here
 
-> ## List of Types
-> - diary
-> - notebook, …
+## List of Types
+> -   diary
+> -   notebook, …
