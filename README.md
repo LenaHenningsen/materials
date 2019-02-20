@@ -26,9 +26,10 @@ cd my-data
 git clone https://github.com/readchina/materials.git
 ```
 
-3.  Navigate to the folder with the first letter of your family name (姓) and the correct file type.
+3.  Navigate to the folder with the first letter of your surname (**H**enningsen, **L**in, **M**andzunowski, **P**aterson,**Y**ang) and the correct file type, e.g.: 
+
 ```bash
-cd materials/audio/P
+cd materials/audio/Y
 ```
 
 4.  Check the `readme.md` for either [audio](image/readme.md) or [image](audio/readme.md) files as necessary and fill out the template.
